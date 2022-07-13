@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pduffy1991
 - 👀 I’m interested in teaching python to my students 
-- 🌱 I’m currently learning the very begining basics of python
+- 🌱 I’m currently learning the very beginning basics of python
 - 💞️ I’m looking to collaborate on drone programming with python
 - 📫 Reach me at pduffy@johnrexschool.org
 
